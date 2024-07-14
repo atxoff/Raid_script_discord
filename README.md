@@ -1,6 +1,6 @@
 # 🔧 Instalation :
 
-Ouvrir le terminal et executer : `git clone https://github.com/atxoff/Raid_script_discord.git` <br>
+Ouvrir le terminal et executer : ```git clone https://github.com/atxoff/Raid_script_discord.git``` <br>  <br>
 Executer : `installrequirements.bat` puis `start.bat`
 
 # 🚀 Utulisation :
